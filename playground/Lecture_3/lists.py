@@ -29,12 +29,12 @@ liste = [2,2,3,4,6]
 # topla(liste)
 
 
-def kareAl(lis):
-    for i in range(0,len(lis)):
-        lis[i] = lis[i]*lis[i]
-    return print(lis)
+# def kareAl(lis):
+#     for i in range(0,len(lis)):
+#         lis[i] = lis[i]*lis[i]
+#     return print(lis)
 
-kareAl(liste)
+# kareAl(liste)
 
-liste.copy()
-liste.reverse()
+# liste.copy()
+# liste.reverse()
